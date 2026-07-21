@@ -6,7 +6,7 @@ namespace GMTK26.PlayerSystem
 {
 	public class Player : MonoBehaviour
 	{
-		[SerializeField, Unit(Units.Meter)]
+		[SerializeField, Unit(Units.MetersPerSecond)]
 		private float Speed = 3f;
 
 		private GlobalInputActions _input;
