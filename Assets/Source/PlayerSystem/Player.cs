@@ -1,11 +1,12 @@
 using GMTK26.InputSystem;
+using Sirenix.OdinInspector;
 using UnityEngine;
 
 namespace GMTK26.PlayerSystem
 {
 	public class Player : MonoBehaviour
 	{
-		[SerializeField]
+		[SerializeField, Unit(Units.Meter)]
 		private float Speed = 3f;
 
 		private GlobalInputActions _input;
