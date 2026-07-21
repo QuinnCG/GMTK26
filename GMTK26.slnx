@@ -6,5 +6,6 @@
   <Project Path="FMODUnityHaptics.csproj" />
   <Project Path="FMODUnityResonance.csproj" />
   <Project Path="PrimeTween.Debug.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
   <Project Path="PrimeTween.Installer.csproj" />
 </Solution>
