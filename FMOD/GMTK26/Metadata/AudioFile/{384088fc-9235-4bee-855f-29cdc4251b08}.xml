@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{384088fc-9235-4bee-855f-29cdc4251b08}">
+		<property name="assetPath">
+			<value>Footsteps/Concrete/Zapsplat Foley Footstep Single Sneakers Trainers Leather Large On Hard Ground Road Concrete Etc Right 04.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.65345833333333336</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9c9a8af2-9a60-48fc-8da5-ca65d7e08c00}</destination>
+		</relationship>
+	</object>
+</objects>
