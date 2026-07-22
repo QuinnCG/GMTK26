@@ -1,1 +1,1 @@
-Tristan is the best and Quinton is a cow
+Quinton is a cow and Tristan a **koei**.
