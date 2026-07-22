@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{dc45d3a2-95c3-42df-90e3-fce26af24b38}">
 		<property name="name">
-			<value>PlayerFootstep</value>
+			<value>Footstep</value>
 		</property>
 		<property name="outputFormat">
-			<value>0</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
-			<destination>{29483bbd-0639-48ab-973a-3427dda79ef1}</destination>
+			<destination>{6ab69cc0-0b65-4aea-aebb-b9c2bc1dfa05}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{e9042a99-c9fb-401d-8301-e5e8c724d05c}</destination>
@@ -96,8 +96,8 @@
 	<object class="MixerBusEffectChain" id="{365ccf59-2523-43af-9153-e358b669c00b}">
 		<relationship name="effects">
 			<destination>{81286f3d-8a89-46a0-b2f3-0250e0b5ca6f}</destination>
-			<destination>{3f15ef9e-3b36-47f8-8ff9-0291e4892276}</destination>
 			<destination>{ec4bae99-49d8-42c8-9b17-5ccb3671e3e2}</destination>
+			<destination>{3f15ef9e-3b36-47f8-8ff9-0291e4892276}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{5887f3ec-9e51-42a2-8def-e7d75522adfd}" />
@@ -119,12 +119,12 @@
 	</object>
 	<object class="MixerBusFader" id="{a90039f9-2925-452d-b597-ace35e35beec}" />
 	<object class="MixerBusFader" id="{81286f3d-8a89-46a0-b2f3-0250e0b5ca6f}" />
-	<object class="SpatialiserEffect" id="{3f15ef9e-3b36-47f8-8ff9-0291e4892276}" />
 	<object class="PannerEffect" id="{ec4bae99-49d8-42c8-9b17-5ccb3671e3e2}">
 		<property name="overridingOutputFormat">
 			<value>0</value>
 		</property>
 	</object>
+	<object class="SpatialiserEffect" id="{3f15ef9e-3b36-47f8-8ff9-0291e4892276}" />
 	<object class="RandomizerModulator" id="{524752a6-03ab-4576-9528-dfe37c454064}">
 		<property name="nameOfPropertyBeingModulated">
 			<value>pitch</value>

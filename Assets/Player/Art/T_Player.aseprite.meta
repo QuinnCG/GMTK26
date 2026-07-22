@@ -407,7 +407,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 43
-      y: 4
+      y: 21
       width: 10
       height: 10
     spriteID: c23974b085e1b0e4cb30fca76e960efc
@@ -418,7 +418,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 43, y: 4}
+    uvTransform: {x: 43, y: 21}
   - name: Frame_14
     originalName: 
     pivot: {x: 0.5, y: 0}
@@ -449,7 +449,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 43
-      y: 40
+      y: 57
       width: 10
       height: 8
     spriteID: d72c632ea8b88664dbf172a82f9ee07c
@@ -460,7 +460,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 43, y: 40}
+    uvTransform: {x: 43, y: 57}
   - name: Frame_16
     originalName: 
     pivot: {x: 0.5, y: 0.2}
@@ -470,7 +470,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 43
-      y: 22
+      y: 39
       width: 10
       height: 10
     spriteID: 5b5e080e0b586e74199cf3cd5234bfab
@@ -481,7 +481,28 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 43, y: 22}
+    uvTransform: {x: 43, y: 39}
+  - name: Frame_17
+    originalName: 
+    pivot: {x: 0.4166667, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 4
+      width: 12
+      height: 9
+    spriteID: d213453042add3f40b4197359ae51dbf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 43, y: 4}
   spriteSheetImportData: []
   tileSetImportData: []
   asepriteLayers:
@@ -650,6 +671,15 @@ ScriptedImporter:
         width: 10
         height: 10
       spriteId: 5b5e080e0b586e74199cf3cd5234bfab
+    - name: Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 10
+        width: 12
+        height: 9
+      spriteId: d213453042add3f40b4197359ae51dbf
     linkedCells: []
     tileCells: []
     tileSetIndex: 0

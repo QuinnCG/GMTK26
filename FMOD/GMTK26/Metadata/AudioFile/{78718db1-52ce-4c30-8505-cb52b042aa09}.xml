@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{78718db1-52ce-4c30-8505-cb52b042aa09}">
+		<property name="assetPath">
+			<value>Dashing/Zapsplat Foley Stick Swing Air Whoosh Very Fast Hard 002 110412.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.14228125</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9c9a8af2-9a60-48fc-8da5-ca65d7e08c00}</destination>
+		</relationship>
+	</object>
+</objects>

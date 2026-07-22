@@ -38,8 +38,20 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Ground
+    uniqueID: 3375864611
+    locked: 0
+  - name: BackVFX
+    uniqueID: 673549097
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: FrontVFX
+    uniqueID: 2364670539
+    locked: 0
+  - name: Missiles
+    uniqueID: 2811232289
     locked: 0
   m_RenderingLayers:
   - Default
