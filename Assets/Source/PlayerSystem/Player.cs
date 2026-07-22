@@ -23,6 +23,9 @@ namespace GMTK26.PlayerSystem
 			_input = new GlobalInputActions();
 			_animator = GetComponent<Animator>();
 			_rb = GetComponent<Rigidbody2D>();
+
+			Cursor.visible = false;
+			Cursor.lockState = CursorLockMode.Locked;
 		}
 
 		private void OnEnable()
