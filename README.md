@@ -1,1 +1,1 @@
-Quinton is a cow
+Tristan is cow
